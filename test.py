@@ -9,6 +9,7 @@ openai.api_key = "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"
 # # os.environ["OPENAI_API_KEY"] = getpass.getpass('OpenAI API Key:')
 # os.environ["OPENAI_API_KEY"] = "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" 
 
+# test
 
 # GPTによる応答生成
 # prompt = "以下の条件の下でおいしい食べ物を教えてください。\n条件1:和食\n条件2:甘い"

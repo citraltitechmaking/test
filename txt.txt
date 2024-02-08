@@ -1,8 +1,14 @@
 本日の内容
-    宿題の確認
 
-    ChatGPTをAPIから活用
-    - デバッグ方法
-    - エラーメッセージから解決策を見つける
-    VScode GitHub連携
-    - 
+    - 業界小噺　ITパスポート
+    - 宿題の確認
+
+    - VScode GitHub連携
+        git init （前回確認済み）
+        git remote add origin https://
+        git branch -M main 
+        git push -u origin main
+    - ChatGPTをAPIから活用
+        デバッグ方法
+        エラーメッセージから解決策を見つける
+    - 議事録アプリ実装
