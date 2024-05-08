@@ -33,7 +33,7 @@ DEBUG = True
 def solve():
 
     n = II()
-    n,m = MI()
+    n,m = MI()  # hoge
 
 
 
